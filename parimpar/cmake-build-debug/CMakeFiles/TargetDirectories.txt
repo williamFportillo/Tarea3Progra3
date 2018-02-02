@@ -1,0 +1,3 @@
+C:/Users/WilliamPC/CLionProjects/parimpar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/WilliamPC/CLionProjects/parimpar/cmake-build-debug/CMakeFiles/parimpar.dir
+C:/Users/WilliamPC/CLionProjects/parimpar/cmake-build-debug/CMakeFiles/edit_cache.dir
